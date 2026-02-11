@@ -9,3 +9,12 @@ https://transform.tools/html-to-jsx
 
 Curso de ``midulive``:
 https://www.youtube.com/playlist?list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29
+
+[[Que es JSX]]:
+https://es.legacy.reactjs.org/docs/introducing-jsx.html
+
+[[Que es Babel]]:
+https://babeljs.io/
+
+Enlace a SWC:
+https://swc.rs/playground
