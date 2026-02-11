@@ -65,3 +65,4 @@ npm run dev
 - [[RECURSOS]]
 - [[Que es Vite]]
 - [[Que es Babel]]
+- [[Creando un primer proyecto]]
