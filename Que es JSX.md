@@ -26,3 +26,17 @@ Si usamos [SWC](https://swc.rs/playground), podemos ver que el código JS y el c
 
 ----
 Por lo tanto, cuando escribimos JSX, estamos escribiendo en realidad código JavaScript, pero lo escribimos con JSX para que sea mucho mas fácil y sea declarativo.
+Para especificar atributos se hace similar a HTML, en React como es código JavaScript los atributos se utilizan normalmente en ``CammelCase``:
+```jsx
+<!-- mal -->
+<button tab-index="1">
+
+<!-- correcto -->
+<button tabIndex="1">
+```
+
+JSX también evita la inyección de código (XSS), por lo que hacer esto, no es valido:
+```jsx
+const responde = "<script>alert('hola')</script>"
+const element  = <h1>{response}</h1>
+```

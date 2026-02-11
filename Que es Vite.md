@@ -1,7 +1,7 @@
 
 ----
 
-**Vite** es una herramienta moderna de desarrollo ``frontend`` creada por Evan You (creador de ``Vue.js``). Reemplaza a herramientas más lentas como ``Webpack`` o ``Create React App``.
+**Vite** es una herramienta moderna de desarrollo ``frontend`` creada por ``Evan You`` (creador de ``Vue.js``). Reemplaza a herramientas más lentas como ``Webpack`` o ``Create React App``(La forma oficial de crear apps en React). 
 
 ## ¿Qué hace Vite?
 Vite tiene **dos partes principales**:

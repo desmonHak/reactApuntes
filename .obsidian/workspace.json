@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Que es JSX.md",
+                "file": "Creando un primer proyecto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Que es JSX"
+              "title": "Creando un primer proyecto"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "Vista gráfica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Creando un primer proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Creando un primer proyecto"
             }
           },
           {
@@ -123,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Creando un primer proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Creando un primer proyecto"
             }
           },
           {
@@ -165,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Creando un primer proyecto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Creando un primer proyecto"
             }
           }
         ]
@@ -191,26 +193,53 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "cd80914b617a7a64",
+  "active": "d5af430a98901c5c",
   "lastOpenFiles": [
-    "Que es JSX.md",
-    "RECURSOS.md",
-    "imagenes/introduccion/Pasted image 20260211060025.png",
-    "imagenes/introduccion/Pasted image 20260211060010.png",
-    "Que es Babel.md",
-    "Introducción.md",
-    "README.md",
-    "Que es Vite.md",
-    "imagenes/introduccion/Pasted image 20260211054548.png",
-    "imagenes/introduccion/Pasted image 20260211053322.png",
-    "imagenes/introduccion/Pasted image 20260211055728.png",
-    "Pasted image 20260211055744.png",
-    "Sin nombre",
-    "imagenes/introduccion",
-    "imagenes",
-    "examples/hello_world.html",
-    "examples/hello_world.jsx",
-    "examples",
-    "Nueva carpeta"
+    "imagenes/introduccion/Pasted image 20260211064444.png",
+    "imagenes/introduccion/Pasted image 20260211064211.png",
+    "imagenes/introduccion/Pasted image 20260211063728.png",
+    "imagenes/introduccion/Pasted image 20260211063204.png",
+    "imagenes/introduccion/Pasted image 20260211062904.png",
+    "Creando un primer proyecto.md",
+    "imagenes/introduccion/Pasted image 20260211063120.png",
+    "imagenes/introduccion/Pasted image 20260211062745.png",
+    "imagenes/introduccion/Pasted image 20260211062121.png",
+    "imagenes/introduccion/Pasted image 20260211061833.png",
+    "examples/projects/00-hola-mundo/node_modules/fast-json-stable-stringify/example/value_cmp.js",
+    "examples/projects/00-hola-mundo/node_modules/fast-json-stable-stringify/example/str.js",
+    "examples/projects/00-hola-mundo/node_modules/fast-json-stable-stringify/example/key_cmp.js",
+    "examples/projects/00-hola-mundo/node_modules/fast-json-stable-stringify/example/nested.js",
+    "examples/projects/00-hola-mundo/node_modules/fast-json-stable-stringify/example",
+    "examples/projects/00-hola-mundo/node_modules/fast-json-stable-stringify/benchmark/test.json",
+    "examples/projects/00-hola-mundo/node_modules/fast-json-stable-stringify/benchmark/index.js",
+    "examples/projects/00-hola-mundo/node_modules/fast-json-stable-stringify/benchmark",
+    "examples/projects/00-hola-mundo/node_modules/@rolldown/pluginutils/dist/filter/simple-filters.js",
+    "examples/projects/00-hola-mundo/node_modules/@rolldown/pluginutils/dist/filter/simple-filters.d.ts",
+    "examples/projects/00-hola-mundo/node_modules/@rolldown/pluginutils/README.md",
+    "examples/projects/00-hola-mundo/node_modules/eslint/README.md",
+    "examples/projects/00-hola-mundo/node_modules/@types/react-dom/README.md",
+    "examples/projects/00-hola-mundo/node_modules/eslint-plugin-react-hooks/README.md",
+    "examples/projects/00-hola-mundo/node_modules/@swc/core/README.md",
+    "examples/projects/00-hola-mundo/node_modules/@eslint/js/README.md",
+    "examples/projects/00-hola-mundo/node_modules/eslint-plugin-react-refresh/README.md",
+    "examples/projects/00-hola-mundo/node_modules/@eslint/eslintrc/node_modules/globals/readme.md",
+    "examples/projects/00-hola-mundo/node_modules/react-dom/README.md",
+    "examples/projects/00-hola-mundo/node_modules/react/README.md",
+    "examples/projects/00-hola-mundo/node_modules/globals/readme.md",
+    "examples/projects/00-hola-mundo/node_modules/vite/LICENSE.md",
+    "examples/projects/00-hola-mundo/node_modules/vite/README.md",
+    "examples/projects/00-hola-mundo/node_modules/@eslint-community/eslint-utils/README.md",
+    "examples/projects/00-hola-mundo/node_modules/debug/README.md",
+    "examples/projects/00-hola-mundo/node_modules/@humanfs/node/README.md",
+    "examples/projects/00-hola-mundo/node_modules/@swc/counter/README.md",
+    "examples/projects/00-hola-mundo/node_modules/@swc/counter/CHANGELOG.md",
+    "examples/projects/00-hola-mundo/node_modules/@eslint/config-helpers/README.md",
+    "examples/projects/00-hola-mundo/node_modules/@eslint/core/README.md",
+    "examples/projects/00-hola-mundo/node_modules/@types/estree/README.md",
+    "examples/projects/00-hola-mundo/node_modules/@eslint/plugin-kit/README.md",
+    "examples/projects/00-hola-mundo/node_modules/esutils/README.md",
+    "examples/projects/00-hola-mundo/node_modules/ajv/lib/dotjs/README.md",
+    "examples/projects/00-hola-mundo/src/assets/react.svg",
+    "examples/projects/00-hola-mundo/public/vite.svg"
   ]
 }
